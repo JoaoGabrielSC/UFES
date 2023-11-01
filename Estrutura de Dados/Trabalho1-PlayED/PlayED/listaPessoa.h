@@ -2,7 +2,7 @@
 // listaPessoa.h
 // Lista de Pessoas Simplesmente Encadeada com Sentinela
 //
-// Criado por Gabrielly Cariman e Lucas Manfioletti em 02/08/21.
+// .
 //
 // Checagem de pré-condição deve ser feita pelo cliente.
 //
